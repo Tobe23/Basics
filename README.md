@@ -1,1 +1,1 @@
-# Basics
+# Documenting basic linux commands and operation.
