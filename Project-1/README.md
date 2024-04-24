@@ -27,7 +27,7 @@ Running this command without an option will take you to the home folder
 
 cd .. moves one directory up.
 
-cd -  moves to you previous directory.
+cd -  moves to your previous directory.
 
 ![alt text](<Images/Screenshot 2024-04-24 111915.png>)
 
