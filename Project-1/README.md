@@ -31,3 +31,25 @@ cd -  moves to your previous directory.
 
 ![alt text](<Images/Screenshot 2024-04-24 111915.png>)
 
+
+## ls command
+The ls command lists files and directories within a system. Running ls with a flag or parameter will show the current working directory's content.
+
+![alt text](<Images/Screenshot 2024-04-28 100905.png>)
+
+Here are some options for ls
+
+ls -R
+
+lists all the files in the subdirectories
+![alt text](<Images/Screenshot 2024-04-28 102723.png>)
+
+ls -a
+
+shows hidden files in addition to the visible ones.
+![alt text](<Images/Screenshot 2024-04-28 103149.png>)
+
+ls -lh
+shows the file sizes in easily readable formats such as KB, MB, GB, and TB
+![alt text](<Images/Screenshot 2024-04-28 105639.png>)
+
