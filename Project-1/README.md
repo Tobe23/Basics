@@ -9,8 +9,8 @@ Example, sudo apt update
 ![alt text](<Images/Screenshot 2024-04-22 082920.png>)
 
 
-## pwd command:
-Usethe pwd command to find the path of your current/present working directory. Simply entering pwd will return the full current path.
+## pwd command
+Use the pwd command to find the path of your current/present working directory. Simply entering pwd will return the full current path.
 
 It has two acceptable options:
 -L or -logical prints environment variabe content, including symbolic links.
