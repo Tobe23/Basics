@@ -56,3 +56,25 @@ shows the file sizes in easily readable formats such as KB, MB, GB, and TB.git
 
 ![alt text](<Images/Screenshot 2024-04-28 105639.png>)
 
+
+## cat command
+
+concatenate or cat command lists, combines and writes file content to the standard output. To run the cat command, type cat followed by the file name and it's extension.
+
+![alt text](<Images/Screenshot 2024-04-28 123421.png>)
+
+cat can also be used to merge two files 
+cat filename1.txt filename2.txt > filename3.txt
+
+![alt text](<Screenshot 2024-04-28 124603.png>)
+
+tac command
+displays content in reverse order
+
+![alt text](<Images/Screenshot 2024-04-28 125010.png>)
+
+
+## cp command
+cp command is for copying files or directories and their content. To copy an entire directory, pass the -R before the source directory, followed by the destibation directory.
+
+![alt text](<Images/Screenshot 2024-04-28 125010.png>)
