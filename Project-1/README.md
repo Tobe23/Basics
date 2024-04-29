@@ -78,4 +78,4 @@ displays content in reverse order
 ## cp command
 cp command is for copying files or directories and their content. To copy an entire directory, pass the -R before the source directory, followed by the destibation directory.
 
-![alt text](<Images/Screenshot 2024-04-28 125010.png>)
+![alt text](<Images/Screenshot 2024-04-29 103323.png>)
