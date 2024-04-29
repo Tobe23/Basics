@@ -66,7 +66,8 @@ concatenate or cat command lists, combines and writes file content to the standa
 cat can also be used to merge two files 
 cat filename1.txt filename2.txt > filename3.txt
 
-![alt text](<Screenshot 2024-04-28 124603.png>)
+![alt text](<Images/Screenshot 2024-04-28 124603.png>)
+
 
 tac command
 displays content in reverse order
