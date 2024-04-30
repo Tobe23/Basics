@@ -82,3 +82,12 @@ cp command is for copying files or directories and their content. To copy an ent
 
 ![alt text](<Images/Screenshot 2024-04-29 115227.png>)
 
+To copy an entire directory, pass the -R flag (cp -R) before typing the source directory, followed by the destination directory.
+
+![alt text](<Images/Screenshot 2024-04-30 104313.png>)
+
+## mv command
+
+The primary use of the mv command is to move and rename files and directory. It does not produce any output upon execution. Simply type mv followed by the filename and the destination directory.
+
+![alt text](<Images/Screenshot 2024-04-30 111735.png>)
