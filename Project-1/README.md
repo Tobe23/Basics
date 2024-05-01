@@ -109,3 +109,15 @@ To create directory with full read, write and execute permissions, enter -m777
 rmdir command is used to permanently delete an empty directory.
 
 ![alt text](<Images/Screenshot 2024-05-01 161750.png>)
+
+## rm command
+
+The rm command is used to delete files within a directory. Make sure the user performing this command has the write permission.
+
+![alt text](<Images/Screenshot 2024-05-01 163622.png>)
+
+## touch command
+
+touch command allows you to create an empty file or generate and modify timestamp in the linux command line.
+
+![alt text](<Images/Screenshot 2024-05-01 164531.png>)
