@@ -91,3 +91,21 @@ To copy an entire directory, pass the -R flag (cp -R) before typing the source d
 The primary use of the mv command is to move and rename files and directory. It does not produce any output upon execution. Simply type mv followed by the filename and the destination directory.
 
 ![alt text](<Images/Screenshot 2024-04-30 111735.png>)
+
+mv command can also be used to rename a file
+
+![alt text](<Images/Screenshot 2024-05-01 155259.png>)
+
+## mkdir command
+
+Use the mkdir command to create one or multiple directories at once and set permissions for each of them.
+
+![alt text](<Images/Screenshot 2024-05-01 160738.png>)
+
+To create directory with full read, write and execute permissions, enter -m777
+
+## rmdir command
+
+rmdir command is used to permanently delete an empty directory.
+
+![alt text](<Images/Screenshot 2024-05-01 161750.png>)
