@@ -121,3 +121,45 @@ The rm command is used to delete files within a directory. Make sure the user pe
 touch command allows you to create an empty file or generate and modify timestamp in the linux command line.
 
 ![alt text](<Images/Screenshot 2024-05-01 164531.png>)
+
+## df command
+Use the df command to report the system's disk space shown in percentage and kilobyte(KB). 
+
+df -h 
+
+To the system's disk space in human readable format 
+
+![alt text](<Images/Screenshot 2024-05-07 095412.png>)
+
+df -m displays information on the file system usage in MBs
+
+![alt text](<Images/Screenshot 2024-05-07 100756.png>)
+
+df -k displays information on the file system usage in KBs
+
+![alt text](<Images/Screenshot 2024-05-07 101131.png>)
+
+df -T shows file system type in a new column
+
+![alt text](<Images/Screenshot 2024-05-07 101528.png>)
+
+## du command 
+
+For checking how much space a file or directory takes up
+
+![alt text](<Images/Screenshot 2024-05-07 102313.png>)
+
+## head command
+
+The head command allows you to view the first ten lines of a text. Adding an options lets change the number of lines shown. It can also be used to output piped data to the CLI.
+
+![alt text](<Images/Screenshot 2024-05-07 103648.png>)
+
+-n or -lines prints the first customized number of lines. 
+Exmple -n 5 or -5
+
+![alt text](<Images/Screenshot 2024-05-07 104246.png>)
+
+![alt text](<Images/Screenshot 2024-05-07 104347.png>)
+
+
