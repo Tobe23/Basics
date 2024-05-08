@@ -153,13 +153,41 @@ For checking how much space a file or directory takes up
 
 The head command allows you to view the first ten lines of a text. Adding an options lets change the number of lines shown. It can also be used to output piped data to the CLI.
 
-![alt text](<Images/Screenshot 2024-05-07 103648.png>)
+![alt text](<Images/Screenshot 2024-05-08 100158.png>)
 
 -n or -lines prints the first customized number of lines. 
 Exmple -n 5 or -5
 
-![alt text](<Images/Screenshot 2024-05-07 104246.png>)
+![alt text](<Images/Screenshot 2024-05-08 100356.png>)
 
-![alt text](<Images/Screenshot 2024-05-07 104347.png>)
+![alt text](<Images/Screenshot 2024-05-08 100452.png>)
+
+## tail command
+
+The tail command displays the last ten lines of a file. It allows user check whether a file has new data or to read error messages.
+
+![alt text](<Images/Screenshot 2024-05-08 101035.png>)
+
+-n or -lines prints the last customised number of lines
+
+![alt text](<Images/Screenshot 2024-05-08 101252.png>)
+
+or
+
+![alt text](<Images/Screenshot 2024-05-08 101614.png>)
+
+## diff command
+
+Short for difference, the diff command compares the contents of a file line by line.
+
+## tar command
+
+The tar command archives multiple files into a TAR file - a common linux fromat similar to ZIP, with optional compression
+
+
+# Linux Command
+
+A linux command is a program or utility that runs on the command line interface (CLI). Linux commands are executed on terminal by pressing enter at the end of the line. All linux commands are case-sensitive.
+
 
 
