@@ -242,6 +242,69 @@ This command has options:
 ![alt text](<Images/Screenshot 2024-05-13 131616.png>)
 
 
+## man command
+The man command provided a user manual of any command or utility you can run in you terminal, including the name, description, and options. 
+
+for example man cat as seen below
+
+![alt text](<Images/Screenshot 2024-05-13 133758.png>)
 
 
+## echo command
+
+The echo command is a built-in utility that displays a line of text or string using the standard output. 
+This command supports many options such as:
+
+-n display the output without the trailing newline
+
+-e enables the interpretation of the following backslash: \a plays sound alert. \b removes spaces in between a text. \c produces no further output.
+
+-E displays the default option and disables the interpretation of backslash escapes.
+
+![alt text](<Images/Screenshot 2024-05-13 135359.png>)
+
+
+## zip, unzip commands
+Use the zip command to compress your file into a ZIP file. The zip command is also useful for archiving files, directories and reducing disk usage
+
+The unzip command is used to extract the zipped file from an archive.
+
+![alt text](<Images/Screenshot 2024-05-13 140834.png>)
+
+
+## hostname command
+Run hostname command to know the system's hostname.
+
+![alt text](<Images/Screenshot 2024-05-13 141814.png>)
+
+
+## useradd, userdel commands
+Linux is a multi-user system, meaning that more than one person can use it simultaneously. useradd is used to create a new account, while the passwd command allows you to add password. Only those with root privileges or sudo can run the useradd command.
+
+![alt text](<Images/Screenshot 2024-05-13 143440.png>)
+
+
+## apt-get command
+apt-get is used for handling Advanced Package Tool (APT) libraries in Linux. It lets you retrieve information and bundles from authenticated sources to manage, update, remove, and install software and it dependencies. This command requires a root or sudo privileges.
+
+![alt text](<Images/Screenshot 2024-05-13 144406.png>)
+
+
+## nano, vi, jed commands
+
+Linux allows users to edith and manage files via a text editor  such as nano, vi, or jed; nano and vi come with the operating system, while jed has to be installed.
+
+![alt text](<Images/Screenshot 2024-05-13 144703.png>)
+
+## su command
+
+The su (switch user) command allows you to run a program as a different user. It changes the administrative account in the current log-in session.
+
+It has options:
+
+-p or -preserve-environment keeps the same shell environment, consisiting HOME, SHELL, USER, and LOGNAME
+
+-s or -shell lets you specify a different shell environment shell environment to run.
+
+-l or -login runs login script to switch to different username.
 
