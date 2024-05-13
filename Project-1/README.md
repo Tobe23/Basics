@@ -318,3 +318,4 @@ Executing the ps command without an option or argument will list the running pro
 The unique process ID (PID), The type of the terminal (TTY), The running time (TIME), The command that launches the process (CMD)
 
 ![alt text](<Images/Screenshot 2024-05-13 153130.png>)
+
