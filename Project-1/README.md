@@ -189,5 +189,59 @@ The tar command archives multiple files into a TAR file - a common linux fromat 
 
 A linux command is a program or utility that runs on the command line interface (CLI). Linux commands are executed on terminal by pressing enter at the end of the line. All linux commands are case-sensitive.
 
+## chmod command
+
+chmod is a commom command that modifies a file or directory's read, write and execute permission. In Linux, each file associated with three user classes- owner, group member, and others.
+
+![alt text](<Images/Screenshot 2024-05-13 083904.png>)
+
+This command supports many options, including:
+
+-c or -changes displays information when a change is made. -f or -silent supresses error message. -v or -verboss displays a diagnostic for each processed file.
+
+## chown command
+
+This command let's you change the ownership of a file, directory, or symbolic link to a specific user name.
+
+## wget command
+
+This command lets you download file from the internet. It works in the background without hindering other running programs.
+
+The wget command retrieves files using HTTP, HTTPS, FTP protocol. It can perform recursive download, which tranfer website parts by following the directory structures and links, creating local version of the web pages.
+
+![alt text](<Images/Screenshot 2024-05-13 124223.png>)
+
+## uname command
+
+The uname or unix name command will print the detailed information about your linux system and hardware. This includes machine name, operating, and kernel.
+
+This command has option:
+-a prints all the system information. -s prints the kernel name. -n prints the system's node hostname.
+
+![alt text](<Images/Screenshot 2024-05-13 125206.png>)
+
+## top command
+Top command displays all running processes and dynamic real-time view of the current system. It sums up the resource utilization, from CPU to memory useage. Top command can also help you identify and terminate a process that may usetoo many system resources.
+
+![alt text](<Images/Screenshot 2024-05-13 125526.png>)
+
+
+## history command
+
+History command lets the system list upto 500 previously executed commands, allowning you to reuse them without re-entering. Omly user with sudo privileges can execute this command. How it runs depends on which linux shell you use.
+This command has options:
+
+-c clears the complete history list.
+
+-d offset deletes the history entry at the OFFST position.
+
+-a appends history lines
+
+![alt text](<Images/Screenshot 2024-05-13 131442.png>)
+
+![alt text](<Images/Screenshot 2024-05-13 131616.png>)
+
+
+
 
 
