@@ -308,3 +308,13 @@ It has options:
 
 -l or -login runs login script to switch to different username.
 
+
+## ps command
+
+The process status or ps command produces a snapshop of all running processes in your system. The static results are taken from the virtual files in the / proc file system.
+
+Executing the ps command without an option or argument will list the running processes in the shell along with:
+
+The unique process ID (PID), The type of the terminal (TTY), The running time (TIME), The command that launches the process (CMD)
+
+![alt text](<Images/Screenshot 2024-05-13 153130.png>)
