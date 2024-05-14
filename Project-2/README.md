@@ -43,7 +43,7 @@ Is used to add two files together
 git branch -d (file_Name)
 
 
-##Pushing from local Repo to remote repo - GitHub
+## Pushing from local Repo to remote repo - GitHub
 
 git remote add origin (link to github rep) is used to connect to github repo
 
