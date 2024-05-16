@@ -292,7 +292,7 @@ apt-get is used for handling Advanced Package Tool (APT) libraries in Linux. It 
 
 ## nano, vi, jed commands
 
-Linux allows users to edith and manage files via a text editor  such as nano, vi, or jed; nano and vi come with the operating system, while jed has to be installed.
+Linux allows users to edit and manage files via a text editor  such as nano, vi, or jed; nano and vi come with the operating system, while jed has to be installed.
 
 ![alt text](<Images/Screenshot 2024-05-13 144703.png>)
 
