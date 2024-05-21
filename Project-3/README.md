@@ -59,4 +59,6 @@ Run sudo apt install php libapache2-mod-php php-mysql to install PHP, php-mysql 
 
 ![alt text](<Images/Screenshot 2024-05-21 173159.png>)
 
+![alt text](<Images/Screenshot 2024-05-21 181211.png>)
+
 ![alt text](<Images/Screenshot 2024-05-21 173504.png>)
