@@ -65,6 +65,8 @@ Run sudo apt install php libapache2-mod-php php-mysql to install PHP, php-mysql 
 
 
 
+
+
 ## LEMP STACK INSTALLATION
 
 First ubuntu os has to be updated.
@@ -89,6 +91,7 @@ First ubuntu os has to be updated.
 
  ![alt text](<Images/Screenshot 2024-06-01 190708.png>)
 
+
  ![alt text](<Images/Screenshot 2024-06-01 191222.png>)
 
  ### installing PHP
@@ -96,6 +99,7 @@ First ubuntu os has to be updated.
  sudo apt install php-fpm php-mysql
 
 ![alt text](<Images/Screenshot 2024-06-01 192008.png>)
+
 
 ![alt text](<Images/Screenshot 2024-06-01 192330.png>)
 
@@ -112,9 +116,12 @@ Change directory to /var/www/html using cd /var/www/html
 
 ![alt text](<Images/Screenshot 2024-06-01 194239.png>)
 
+
 Using the nano command edit the file as shown below
 
 ![alt text](<Images/Screenshot 2024-06-01 194737.png>)
+
+
 
 ![alt text](<Images/Screenshot 2024-06-01 195720.png>)
 
