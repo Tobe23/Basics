@@ -62,3 +62,66 @@ Run sudo apt install php libapache2-mod-php php-mysql to install PHP, php-mysql 
 ![alt text](<Images/Screenshot 2024-05-21 181211.png>)
 
 ![alt text](<Images/Screenshot 2024-05-21 173504.png>)
+
+
+
+## LEMP STACK INSTALLATION
+
+First ubuntu os has to be updated.
+
+![alt text](<Images/Screenshot 2024-05-21 181211.png>)
+
+### Installing Ngnix webserver
+ sudo apt install ngnix is the command for installing ngnix
+
+ ![alt text](<Images/Screenshot 2024-06-01 184243.png>)
+
+ ![alt text](<Images/Screenshot 2024-06-01 193950.png>)
+
+ ### Installing MySQL
+
+ To install MySQL, the command to use sudo apt install mysql-server
+
+ ![alt text](<Images/Screenshot 2024-06-01 185415.png>)
+
+ To secure mysql the following command is used
+ mysql_secure_installation
+
+ ![alt text](<Images/Screenshot 2024-06-01 190708.png>)
+
+ ![alt text](<Images/Screenshot 2024-06-01 191222.png>)
+
+ ### installing PHP
+
+ sudo apt install php-fpm php-mysql
+
+![alt text](<Images/Screenshot 2024-06-01 192008.png>)
+
+![alt text](<Images/Screenshot 2024-06-01 192330.png>)
+
+Since the nginx configuration files are in /etc/nginx/, change directory to /etc/nginx/ with cd /etc/nginx/
+
+![alt text](<Images/Screenshot 2024-06-01 192837.png>)
+
+Then change directory to sites-available/
+
+![alt text](<Images/Screenshot 2024-06-01 193233.png>)
+
+
+Change directory to /var/www/html using cd /var/www/html
+
+![alt text](<Images/Screenshot 2024-06-01 194239.png>)
+
+Using the nano command edit the file as shown below
+
+![alt text](<Images/Screenshot 2024-06-01 194737.png>)
+
+![alt text](<Images/Screenshot 2024-06-01 195720.png>)
+
+Now go to the nginx home page on the browser and refresh.
+
+![alt text](<Images/Screenshot 2024-06-01 201249.png>)
+
+
+
+
