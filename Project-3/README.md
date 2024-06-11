@@ -51,7 +51,7 @@ Run sudo mysql -p to log into mysql console
 
 ### Installing PHP
 
-Run sudo apt install php libapache2-mod-php php-mysql to install PHP, php-mysql (a PHP module that allows PHP to communicate MySQL-based database) and lipapache2-mod-php to enable apache to handle PHP files
+Run sudo apt install php libapache2-mod-php php-mysql to install PHP, php-mysql (a PHP module that allows PHP to communicate MySQL-based database) and lipapache2-mod-php to enable apache to handle PHP files.
 
 ![alt text](<Images/Screenshot 2024-05-21 164225.png>)
 
