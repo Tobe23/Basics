@@ -8,7 +8,7 @@ Shell scripting helps to automate repetitive task. Bash scripts are essentially 
 
 2. Control Flow: Bash provides control of flow statement like if-else, while loops, and case statements to execute different commands based on conditions.
 
-![alt text](<Images/Screenshot 2024-06-12 144539.png>)
+![alt text](<Images/Screenshot 2024-06-12 145905.png>)
 
 ![alt text](<Images/Screenshot 2024-06-12 144752.png>)
 
@@ -18,5 +18,5 @@ Since 1.script is not executable, it has be made executable using chmod +x
 
 1.script can now be executed using ./
 
-![alt text](<Images/Screenshot 2024-06-12 145905.png>)
+![alt text](<Images/Screenshot 2024-06-12 151740.png>)
 
