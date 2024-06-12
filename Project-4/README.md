@@ -20,3 +20,10 @@ Since 1.script is not executable, it has be made executable using chmod +x
 
 ![alt text](<Images/Screenshot 2024-06-12 151740.png>)
 
+![alt text](<Images/Screenshot 2024-06-12 152139.png>)
+
+### Iterating through a list using a for loop
+Script to pring from 1 to 5using a for loop
+![alt text](<Images/Screenshot 2024-06-12 152701.png>)
+
+![alt text](<Images/Screenshot 2024-06-12 152927.png>)
