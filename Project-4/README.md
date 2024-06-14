@@ -27,3 +27,17 @@ Script to pring from 1 to 5using a for loop
 ![alt text](<Images/Screenshot 2024-06-12 152701.png>)
 
 ![alt text](<Images/Screenshot 2024-06-12 152927.png>)
+
+### Using backtick for command substitution
+![alt text](<Images/Screenshot 2024-06-12 152927.png>)
+
+4. Input and Output: Bash provides various ways to handle input and output. You can use the read command to accept user input, and output text to the console using the echo command. Additionally, you can redirect input and output using operators like > (output to a file), < (input from a file), and | (pipe the output of one command as input to another)
+
+### File Oeration and Sorting
+This script creates three files (file1.txt, file2.txt, file3.txt), displays them in their current order, sort the alphabetically, saves the sorted files in sorted_files.txt, displays the sorted files, remove the original files, rename the soretd files to sorted_files_sorted_alphabetically.txt, and finally displays the contented of the final sorted file.
+
+![alt text](<Images/Screenshot 2024-06-14 053059.png>)
+
+![alt text](<Images/Screenshot 2024-06-14 053238.png>)
+
+![alt text](<Images/Screenshot 2024-06-14 053405.png>)
