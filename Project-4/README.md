@@ -53,6 +53,10 @@ This script defines two variables num1 and num2 with numeric values, performs ba
 ![alt text](<Images/Screenshot 2024-06-14 063146.png>)
 
 ### File Backup and Timestamping
-This shell scripting example is focused on file backup and timestamp. As a DevOps Engineer backing up databases and other storage devices is one of the most common task you get to carry out.
+This shell scripting example is focused on file backup and timestamp. As a DevOps Engineer, backing up databases and other storage devices is one of the most common task you get to carry out.
 
 This script defines the source directory and backup directory paths. It then creates a timestamp using the current date and time, and creates a backup directory with the timestamp appended to its name. The script then copies all files from the source directory to the backup directory using the cp command with the -r option for recursive copying. Finally, it displays a message indicating the completion of the backup process and shows the path of the backup directory with timestamp.
+
+![alt text](<Images/Screenshot 2024-06-14 072602.png>)
+
+![alt text](<Images/Screenshot 2024-06-14 075255.png>)
