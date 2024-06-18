@@ -39,6 +39,6 @@ Since mysql database does not allow root connection, a user has to be created as
 
 ![alt text](<Images/Screenshot 2024-06-16 204917.png>)
 
-Now connect using "mysql -u tobe -p -h private_ip_of_server"
+Now, connect using "mysql -u tobe -p -h private_ip_of_server"
 
 ![alt text](<Images/Screenshot 2024-06-16 220845.png>)
