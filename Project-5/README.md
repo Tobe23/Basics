@@ -5,9 +5,9 @@
 Server A name - `mysql server`
 Server B name - `mysql client`
 
-2. On MySQL server install MySQL Severs Software
+2. On MySQL server install MySQL Sever Software
 
-Because it is ubuntu we use the following command
+Because it's ubuntu we use the following command
 sudo apt update and sudo apt install mysql-server
 
 ![alt text](<Images/Screenshot 2024-06-16 064131.png>)
