@@ -31,7 +31,7 @@ On mysql server, use nano editor to configure the bind-address to 0.0.0.0 as sho
 
 ![alt text](<Images/Screenshot 2024-06-16 084001.png>)
 
-4. By default, both EC2 virtual servers are located in the same local virtual network, so they can communicate to each other using local IP addresses. Use MySQL server's local IP address to connect from MySQL client. MySQL server uses TCP port 3306 by default, so it has to be open enabled in inbound rules in MySQL sever security groups. For extra security, do not allow all IP addresses to reach your MySQL server - allow access only to the specific local IP address of your msql client.
+4. By default, both EC2 virtual servers are located in the same local virtual network, so they can communicate to each other using local IP addresses. Use MySQL server's local IP address to connect from MySQL client. MySQL server uses TCP port 3306 by default, so it has to be open enabled in inbound rules in MySQL server security groups. For extra security, do not allow all IP addresses to reach your MySQL server - allow access only to the specific local IP address of your msql client.
 
 ![alt text](<Images/Screenshot 2024-06-16 215849.png>)
 
