@@ -16,9 +16,9 @@ In this project, Nginx is and configured as a load balancer.
 
 ## Setting up a Basic Load Balancer
 
-Use two EC2 instances running on ubuntu 22.04 and install apache webserver in them. Open port 8000 to allow traffic from anywhere, and finally update the default page of the webserver to display their IP address.
+Use two EC2 instances running on ubuntu 24.04 and install apache webserver in them. Open port 8000 to allow traffic from anywhere, and finally update the default page of the webserver to display their IP address.
 
-Next, provision another EC2 instance running on ubuntu 22.04, this time install Nginx and configure it to act as a load balancer distributing traffic across the webservers.
+Next, provision another EC2 instance running on ubuntu 24.04, this time install Nginx and configure it to act as a load balancer distributing traffic across the webservers.
 
 ![alt text](<Images/Screenshot 2024-09-11 150038.png>)
 
@@ -26,4 +26,4 @@ Next, provision another EC2 instance running on ubuntu 22.04, this time install 
 
 ![alt text](<Images/Screenshot 2024-09-11 151836.png>)
 
-After provisioning both of our webservers and have opened the necessary ports, it is time to install apache software on both servers. To do this, we must firdt connect to each of the webservers via ssh, then run commands on the terminal of our webservers.
+After provisioning both of our webservers and have opened the necessary ports, it is time to install apache software on both servers. To do this, we must first connect to each of the webservers via ssh, then run commands on the terminal of our webservers.
