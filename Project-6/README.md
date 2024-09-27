@@ -26,4 +26,4 @@ Next, provision another EC2 instance running on ubuntu 24.04, this time install 
 
 ![alt text](<Images/Screenshot 2024-09-11 151836.png>)
 
-After provisioning both of our webservers and have opened the necessary ports, it is time to install apache software on both servers. To do this, we must first connect to each of the webservers via ssh, then run commands on the terminal of our webservers
+After provisioning both of our webservers and have opened the necessary ports, it is time to install apache software on both servers. To do this, we must first connect to each of the webservers via ssh, then run commands on the terminal of our webservers.
